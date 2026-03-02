@@ -4,6 +4,8 @@
 **A privacy-first, AI-powered, zero-knowledge credit scoring protocol on Starknet.**
 
 **Live Demo:** 
+* https://20260302-verifiable-ai-credit-shield-h1jxcd7am.vercel.app/
+
 **Contract:** `0x07adc426c6b36b47a25039248527655679fcc29bf09eef68791f4ed2b9fddaba` (Sepolia Testnet)  
 **Status:** functional MVP
 
