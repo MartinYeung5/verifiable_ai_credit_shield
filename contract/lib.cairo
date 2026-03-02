@@ -37,7 +37,7 @@ mod CreditShield {
     }
 
     #[abi(embed_v0)]
-    impl CreditShieldImpl of super::ICreditShield<ContractState> {  // 用 super::ICreditShield
+    impl CreditShieldImpl of super::ICreditShield<ContractState> {  
         fn verify_credit_and_borrow(
             ref self: ContractState,
             proof: Array<felt252>,
